@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+}
+.F{
+    display: inline-block;
+    position: relative;
+    top: 210px;
+    left: 49.5%;
+    width: 10%;
+    height: 100px;
+    border-radius:60% ;
+
+
+}
+.S{
+    display: inline-block;
+    position: relative;
+    width: 7%;
+    height: 100px;
+    top: 350px;
+    left: 41%;
+
+}
+.L{
+    display: inline-block;
+    position: relative;
+    width: 10%;
+    height: 100px;
+    border-radius:60% ;
+    top: 350px;
+    left: 21%;
+
+}
+.R{
+    display: inline-block;
+    position: relative;
+    width: 10%;
+    height: 100px;
+    border-radius:60% ;
+    top: 500px;
+    left: 21.5%;
+
+}
+.RE{
+    display: inline-block;
+    position: relative;
+    width: 10%;
+    height: 100px;
+    border-radius:60% ;
+    top: 350px;
+    left: 22.5%;
+    
+
+}
